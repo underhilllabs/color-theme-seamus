@@ -1,3 +1,2 @@
 * a Color Theme for Emacs
 
-<img src="https://lh5.googleusercontent.com/-IQXhMFHtoAY/Ty4A2TMH62I/AAAAAAAACcg/zp3AJY9WroQ/s600/color-theme-seamus.png">
